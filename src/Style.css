@@ -14,7 +14,7 @@ section {
   --Patua: "Patua One", cursive;
   --Lobster: "lobster", cursive;
   --light-black: #2e2c2caf;
-  --bggradient: linear-gradient(to bottom, #dd2476, #ff512f);
+  --bggradient: linear-gradient(to bottom, #2724dd, #2f9aff);
   --light-gray: rgba(255, 255, 255, 0.877);
 }
 
@@ -78,7 +78,7 @@ header .row .col-md-5 img {
 }
 
 header {
-  background: #ff512f;
+  background: #3d2fff;
   /* fallback for old browsers */
   background: var(--bggradient);
 }
@@ -195,7 +195,7 @@ header .container .col-md-7 p {
   padding-top: 3.5vmin;
   margin: 1rem;
   border-radius: 0.5em;
-  box-shadow: 1px 2px 50px 0px rgba(255, 0, 0, 0.349);
+  box-shadow: 1px 2px 50px 0px rgb(2, 0, 134);
 }
 
 .numbers {
@@ -204,7 +204,7 @@ header .container .col-md-7 p {
 
 .numbers .rect h1 {
   font-size: 5rem;
-  color: tomato;
+  color: rgb(15, 3, 177);
 }
 
 .numbers .rect > p {
